@@ -2,7 +2,7 @@
 
 ## Project
 
-* [React](https://facebook.github.io/react/)
+* Official Project Page [React](https://facebook.github.io/react/)
 
 ## User Interface & Components
 
