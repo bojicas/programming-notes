@@ -3,6 +3,7 @@
 ## Project
 
 * Official Project Page [React](https://facebook.github.io/react/)
+* Weekly videos on React (Rally Coding)[http://rallycoding.com/)
 
 ## User Interface & Components
 
